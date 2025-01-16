@@ -1,0 +1,5 @@
+a = int(input("A: "))
+b = int(input("B: "))
+c = int(input("C: "))
+d = int(input("D: "))
+print(f"A: {d} \n B: {a} \n C: {b} \n D: {c}")

@@ -1,0 +1,5 @@
+name = input("What's your name? ")
+print(len(name))
+print(name[-3: ])
+print(name.upper())
+print(name.replace("a", "e"))
